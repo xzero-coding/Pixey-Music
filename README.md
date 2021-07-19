@@ -12,7 +12,7 @@ Tutorial has been uploaded on YouTube <img src="https://www.youtube.com/about/st
 ## 💨 Run the projects
 Glitch: [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/irfanfebrian13/music-bot-discord)
 Repl: [![Run on Repl.it](https://repl.it/badge/github/irfanfebrian13/music-bot-discord)](https://repl.it/github/irfanfebrian13/music-bot-discord)
-Heroku: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/irfanfebrian13/music-bot-discord)
+Heroku: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?templatehttps://github.com/xzero-coding/Pixey-Music)
 ## ✨ Contributors
 Contributions are always welcomed :D
 <a href="">
